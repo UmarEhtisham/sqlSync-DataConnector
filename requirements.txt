@@ -1,0 +1,6 @@
+click
+sqlalchemy
+pymysql
+pandas
+logging
+pathlib
